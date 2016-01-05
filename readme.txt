@@ -1,4 +1,6 @@
-=== Grid Buddies ===
+Wordpress Plugin Page: https://wordpress.org/plugins/grid-buddy/
+
+=== Grid Buddy ===
 Contributors: Relevad
 Tags: grid, layout, content, easy
 Requires at least: 4.2.4
@@ -11,7 +13,7 @@ Display content into custom grid arrangements.
 
 == Description ==
 
-Grid Buddies allow for you to insert a shortcode anywhere onto your Wordpress site and have posts appear in a highly customizable grid arrangement. 
+Grid Buddy allow for you to insert a shortcode anywhere onto your Wordpress site and have posts appear in a highly customizable grid arrangement. 
 Colors, spacing, pagination, fixed widget areas and more can all be set through the plugin settings page. 
 
 Requirements:
@@ -24,10 +26,10 @@ This plugin was developed by Relevad Corporation. Authors: Gleb Promokhov.
 
 == Installation ==
 
-1. Upload the entire 'gridBuddies' folder to the `/wp-content/plugins/` directory.
+1. Upload the entire 'grid-buddy' folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Create a new 'Grid Buddy' through the new admin menu created on the sidebar
-4. Grid Buddies can be customized in the following ways:
+4. Grid Buddy can be customized in the following ways:
 	* Style
 		Set the number of columns, gutter width (space around all sides of each grid box), colors of background and text and max box height.
 	* Content
@@ -35,7 +37,7 @@ This plugin was developed by Relevad Corporation. Authors: Gleb Promokhov.
 	* Stamping
 		Stamping allows for you to create a widget area on the grid with a fixed position. Grid Boxes around stamped widget areas will automatically position themselves around them.
 		Content can be added into these widget areas through the Wordpress 'widgets' menu. 
-5. The Shortcode for the Grid Buddy can be found on the top of an induvidual settings page or as the right column in the Grid Buddies table. To place the shortcode on:
+5. The Shortcode for the Grid Buddy can be found on the top of an induvidual settings page or as the right column in the Grid Buddy table. To place the shortcode on:
 	* Pages / Posts: 
 		Add the shortcode `[grid-buddy id=#]` to where you want the grid arrangement shown on your post/page.
 	* Themes: 
@@ -71,7 +73,7 @@ The posts will be laid out in accordance to the size of the window on page load,
 
 == Screenshots ==
 
-1. Admin table of added Grid Buddies
+1. Admin table of added Grid Buddy
 2. Induvidual style settings of example Grid Buddy.
 3. Induvidual stamping settings of example Grid Buddy.
 4. Active Grid Buddy.
